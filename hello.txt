@@ -4,5 +4,3 @@ Salmon is great.
 
 
 heart
-
-The world is an egg
